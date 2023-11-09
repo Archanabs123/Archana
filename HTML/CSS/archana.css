@@ -1,0 +1,11 @@
+
+.OPQ{
+    position: middle;
+    color:black;
+    background-color:aqua;
+    font-family: 'Times New Roman', Times, serif;
+    border-style: solid;
+    border-radius: 1%;
+    border-width: 1px;
+    text-align:left;
+}
